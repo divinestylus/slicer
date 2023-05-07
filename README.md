@@ -1,7 +1,7 @@
 # Slicer - File Manipulation Bash Application
 
 ## Features
-### 1. Copy & Shuffle. 
+1. Copy & Shuffle. 
 
 ```
 Copy & Shuffle was design primarily for tests.
