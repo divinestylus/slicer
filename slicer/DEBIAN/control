@@ -1,0 +1,5 @@
+Package: slicer
+Version: 1.0
+Architecture: all
+Maintainer: Sam B. Morris <divinestylus@gmail.com> and Varma Cephas <varmac231@gmail.com>
+Description: File Manipulation Application
