@@ -1,1 +1,2 @@
-# duplicate-and-randomize-script
+# Slicer - File Manipulation Bash Application
+## Instructions
