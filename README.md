@@ -16,7 +16,7 @@ number of copies, while shuffling the questions, making each copy unique.
 
 2. Run command 
 ```
-sudo dpkg -i slicer.deb  ### Make sure the argument's "$filepath" is properly specified 
+sudo dpkg -i slicer.deb  # Make sure the argument's "$filepath" is properly specified 
 ```
 3. Read the man page for proper usage
 ```
