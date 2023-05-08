@@ -17,3 +17,6 @@ number of copies. Slicer will also shuffle the questions, making each copy uniqu
 sudo dpkg -i slicer.deb  ### Make sure the argument's "$filename" is specified correctly
 ```
 3. Read the man page for proper usage
+```
+man slicer
+```
