@@ -4,7 +4,7 @@
 1. Copy & shuffle
 
 ```
-Copy & Shuffle is primarily design as an evalution tool. Instructors & facilitators can 
+Copy & shuffle is primarily design as an evalution tool. Instructors & facilitators can 
 highly benefit from it's immense power.
 
 With a single copy of assessment questions, slicer duplicates the questions into desired 
