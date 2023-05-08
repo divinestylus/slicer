@@ -3,8 +3,7 @@
 ## Features
 #### 1. Copy & shuffle
 
-###### Copy & shuffle is primarily designed as an evalution tool. Instructors & facilitators can highly benefit from it's immense power. 
-###### With a single copy of assessment questions, slicer duplicates the questions into desired number of copies, while shuffling the questions, making each copy unique.
+###### Copy & shuffle is primarily designed as an evalution tool. Instructors & facilitators can highly benefit from it's immense power. With a single copy of assessment questions, slicer duplicates the questions into desired number of copies, while shuffling the questions, making each copy unique.
 
 ## How to install
 #### 1. Download the installation package [slicer.deb](https://github.com/divinestylus/slicer/blob/main/slicer.deb)
