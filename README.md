@@ -1,4 +1,4 @@
-# Slicer - File Manipulaion App
+# Slicer - File Manipulation App
 
 ## Features
 1. Copy & Shuffle. 
