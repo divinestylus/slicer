@@ -4,9 +4,10 @@
 1. Copy & shuffle
 
 ```
-Copy & Shuffle was design primarily for tests. Teachers can benefit, in that they 
-can write test questions once and get slicer to duplicate the questions into desired
-number of copies. Slicer will also shuffle the questions, making each copy unique.
+Copy & Shuffle is primarily design as an evalution tool. Instructors & facilitators can 
+highly benefit drom it's immense power. With a single copy of assessment questions, slicer 
+duplicates the questions into desired number of copies, while shuffling the questions,
+making each copy unique.
 ```
 
 ## How to install
