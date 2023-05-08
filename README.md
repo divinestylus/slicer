@@ -1,4 +1,4 @@
-# File Manipulation App
+[# File Manipulation App](https://github.com/divinestylus/slicer)
 
 ## Features
 1. Copy & shuffle
