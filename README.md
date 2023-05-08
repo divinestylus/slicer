@@ -14,6 +14,6 @@ number of copies. Slicer will also shuffle the questions, making each copy uniqu
 
 2. Run command 
 ```
-sudo dpkg -i slicer.deb  ### Make sure file path is specified correctly
+sudo dpkg -i slicer.deb  ### Make sure the argument's "${filename}" is specified correctly
 ```
 3. Read the man page for proper usage
