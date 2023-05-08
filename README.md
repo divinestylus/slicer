@@ -22,3 +22,5 @@ sudo dpkg -i slicer.deb  # Make sure the argument's "$filepath" is properly spec
 ```
 man slicer
 ```
+
+Copyright [Sam B. Morris]() & [Varma Cephas]()
