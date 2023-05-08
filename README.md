@@ -10,7 +10,7 @@ number of copies. Slicer will also shuffle the questions, making each copy uniqu
 ```
 
 ## How to install
-1. Download the Package <slicer.deb>
+1. Download the Package [slicer.deb]()
 
 2. Run command 
 ```
