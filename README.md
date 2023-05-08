@@ -5,9 +5,10 @@
 
 ```
 Copy & Shuffle is primarily design as an evalution tool. Instructors & facilitators can 
-highly benefit drom it's immense power. With a single copy of assessment questions, slicer 
-duplicates the questions into desired number of copies, while shuffling the questions,
-making each copy unique.
+highly benefit from it's immense power.
+
+With a single copy of assessment questions, slicer duplicates the questions into desired 
+number of copies, while shuffling the questions, making each copy unique.
 ```
 
 ## How to install
