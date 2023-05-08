@@ -1,4 +1,4 @@
-# Slicer - File Manipulation Bash Application
+# Slicer - File Manipulaion App
 
 ## Features
 1. Copy & Shuffle. 
