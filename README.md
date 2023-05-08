@@ -1,7 +1,7 @@
 # [File Manipulation App](https://github.com/divinestylus/slicer)
 
 ## Features
-#### Copy & shuffle
+#### ![Copy & Shuffle Icon](<i class="fa-regular fa-scissors"></i>) Copy & shuffle
 
 ###### Copy & shuffle is primarily designed as an evalution tool. Instructors & facilitators can highly benefit from it's immense power. With a single copy of assessment questions, slicer duplicates the questions into desired number of copies, while shuffling the questions, making each copy unique.
 
