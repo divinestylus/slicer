@@ -1,7 +1,7 @@
 # File Manipulation App
 
 ## Features
-1. Copy & Shuffle
+1. Copy & shuffle
 
 ```
 Copy & Shuffle was design primarily for tests. Teachers can benefit, in that they 
