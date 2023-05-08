@@ -16,5 +16,5 @@ sudo dpkg -i slicer.deb  # Make sure the argument's "$filepath" is properly spec
 ```
 man slicer
 ```
-readme-assets/screenshot-man-page.png
+https://github.com/divinestylus/slicer/blob/57448210fa71c68728969d1573f8f30e3eb37041/readme-assets/screenshot-man-page.png
 ###### Copyright &copy; [Sam B. Morris](https://github.com/divinestylus) and [Varma Cephas](https://github.com/varma-cephas)
