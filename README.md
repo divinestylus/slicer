@@ -1,4 +1,4 @@
-![Slicer Logo](readme-assests/slicerlogocolor.svg)
+![Slicer Logo](readme-assets/slicerlogocolor.svg)
 
 ## Features
 #### Copy & shuffle
