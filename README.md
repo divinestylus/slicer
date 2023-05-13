@@ -1,4 +1,4 @@
-# [File Manipulation App](https://github.com/divinestylus/slicer)
+![Slicer Logo](readme-assests/slicerlogocolor.svg)
 
 ## Features
 #### Copy & shuffle
