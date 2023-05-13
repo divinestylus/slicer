@@ -1,7 +1,8 @@
 ![Slicer Logo](readme-assets/slicerlogocolor.svg)
 
 ## Overview
-#### [Slicer](https://github.com/divinestylus/slicer)
+#### [Slicer](https://github.com/divinestylus/slicer) - File Manipulation App
+###### Sicer is a command line file manipulation application.
 
 ## Features
 #### 1. Copy & shuffle
