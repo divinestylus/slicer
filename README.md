@@ -5,7 +5,7 @@
 ###### Sicer is a command line file manipulation application.
 
 ## Features
-#### 1. Copy & shuffle
+#### Copy & shuffle
 ###### Copy & shuffle is primarily designed as an evalution tool. Instructors & facilitators can highly benefit from it's immense power. With a single copy of assessment questions, slicer duplicates the questions into desired number of copies, while shuffling the questions, making each copy unique.
 
 ## How to install
