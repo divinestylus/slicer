@@ -13,12 +13,12 @@
 
 
 > 2. Run command 
-```
+```.sh
 sudo dpkg -i slicer.deb  # Make sure the argument's "$filepath" is properly specified 
 ```
 
 > 3. Read the man page for proper usage
-```
+```.sh
 man slicer
 ```
 ![Man Page Screenshot](assets/screenshot-man-page.png)
