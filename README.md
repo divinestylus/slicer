@@ -1,4 +1,4 @@
-![Slicer Logo](readme-assets/slicerlogocolor.svg)
+![Slicer Logo](assets/slicerlogocolor.svg)
 
 ## Overview
 #### [Slicer](https://github.com/divinestylus/slicer) - File Manipulation App
@@ -19,7 +19,7 @@ sudo dpkg -i slicer.deb  # Make sure the argument's "$filepath" is properly spec
 ```
 man slicer
 ```
-![Man Page Screenshot](readme-assets/screenshot-man-page.png)
+![Man Page Screenshot](assets/screenshot-man-page.png)
 <hr>
 
 ###### &copy; 2023 | Designed & Developed by [Sam B. Morris](https://github.com/divinestylus) and [Varma Cephas](https://github.com/varma-cephas)
