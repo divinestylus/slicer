@@ -11,11 +11,13 @@
 ## How to install
 > Download the installation package [slicer.deb](https://github.com/divinestylus/slicer/blob/main/slicer.deb)
 
+<br>
 
 > Run command 
 ```.sh
 sudo dpkg -i slicer.deb  # Make sure the argument's "$filepath" is properly specified 
 ```
+<br>
 
 > Read the man page for proper usage
 ```.sh
