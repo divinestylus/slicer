@@ -17,6 +17,7 @@
 ```.sh
 sudo dpkg -i slicer.deb  # Make sure the argument's "$filepath" is properly specified 
 ```
+
 <br>
 
 > Read the man page for proper usage
