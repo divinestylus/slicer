@@ -10,11 +10,11 @@ while getopts ":s:" flag
   done
 
 
-if [[ -z "$@" ]]
+if [[ -z "$@" ]]  # Check if flag or argument was entered
   then
-    echo -e "\033[31mError: Command requires a flag and an arguument.\033[0m"
+    echo -e "\033[31mError: Command requires a flag and an argument.\033[0m"
     exit 1
-elif [[ -z "$flag" ]] # Check if $copies is empty or a valid integer
+elif [[ -z "$flag" ]] # Check if flag was entered
   then
     echo -e "\033[31mError: Flag is required.\033[0m"
     exit 1
@@ -22,9 +22,9 @@ elif [[ -z "$copies" || ! "$copies" =~ ^[0-9]+$ ]] # Check if $copies is empty o
   then
     echo -e "\033[31mError: Flag requires an argument. Enter the number of copies you need.\033[0m"
     exit 1
-elif [[ -z "${@:2}" ]]
+elif [[ -z "${@:2}" ]]  # Check if files was passed
   then
-    echo -e "\033[31mError: Command requires an arguument Enter the files that you need copied and shuffled.\033[0m"
+    echo -e "\033[31mError: Command requires an argument Enter the files that you need copied and shuffled.\033[0m"
     exit 1
 fi
 
