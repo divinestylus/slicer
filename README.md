@@ -23,7 +23,8 @@
 
 + Options
 
-      -s copies, | The copies specifies the number of copies per file. It is the value of -s, which shuffles the copies of a file(s).
+      -s copies, | The copies specifies the number of copies per file. 
+      It is the value of -s, which shuffles the copies of a file(s).
 
 
 ## Installation
