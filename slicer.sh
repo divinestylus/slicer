@@ -38,5 +38,6 @@ copy_shuffle(){
           sort -R "$each_file" > "$copy"."$extension"
         done
     done
+    echo -e "\033[32m$(($# -1)) File(s) were copied and shuffled.\033[0m"
 }
 copy_shuffle "$@"
