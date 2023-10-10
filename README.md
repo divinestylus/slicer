@@ -1,30 +1,53 @@
 ![Slicer Logo](assets/slicerlogocolor.svg)
 
-## Overview
-#### [Slicer](https://github.com/divinestylus/slicer) - File Manipulation App
-###### Sicer is a command line file manipulation application.
+**`slicer`** is a file manipulator.
 
 ## Features
-#### Copy & shuffle
-###### Copy & shuffle is primarily designed as an evalution tool. Instructors & facilitators can highly benefit from it's immense power. With a single copy of assessment questions, slicer duplicates the questions into desired number of copies, while shuffling the questions, making each copy unique.
 
-## How to install
-> Download the installation package [slicer.deb](https://github.com/divinestylus/slicer/blob/main/slicer.deb)
++ Copy & shuffle
 
-<br>
+      Copy & shuffle is a primary feature of slicer. Slicer duplicates the file into a desired number of copies, while shuffling the contents, potentially making each copy unique. Instructors & facilitators can highly benefit from it's immense power.
 
-> Run command 
-```.sh
-sudo dpkg -i slicer.deb  # Make sure the argument's "$filepath" is properly specified 
-```
+## Usage
 
-<br>
++ Usage
 
-> Read the man page for proper usage
-```.sh
-man slicer
-```
-![Man Page Screenshot](assets/screenshot-man-page.png)
-<hr>
+      NAME
+        slicer - a file manipulator
 
-###### &copy; 2023 | Designed & Developed by [Sam B. Morris](https://github.com/divinestylus) and [Varma Cephas](https://github.com/varma-cephas)
+      SYNOPSIS
+        slicer - OPTION FILENAME(S)
+
++ Options
+
+      -s copies, | The copies specifies the number of copies per file. It is the value of -s, which shuffles the copies of a file(s).
+
+
+## Installation
++ Download the `slicer.sh` file.
++ Rename script file from `slicer.sh` to `slicer`.
+
+      mv ./slicer.sh slicer
++ Move the file to your binary directory as a root user.
+     
+      sudo mv ./slicer /usr/local/bin/
+
+## License
+MIT License
+
+## How to Contribute
++ Fork this code repository.
+
++ Add your Github username and Github profile link in the CONTRIBUTORS.md file.
+
++ Submit a Pull Request.
+
++ Wait for your Pull Request to be reviewed, approved & merged by an admin.
+
++ If there are issues with your Pull Request, please revise them in accordance with the comments made by the admins.
+
+## Acknowledgement 
+I would like to appreciate my school [Kwagei Group]() for exposing me to the beautiful concept of programming, and my hardworking Linux facilitator [Benjamin A. Ngafua]().
+
+## Credits
+&copy; 2023 | Designed & Developed by [Sam B. Morris](https://github.com/divinestylus).
