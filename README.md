@@ -6,7 +6,10 @@
 
 + Copy & shuffle
 
-      Copy & shuffle is a primary feature of slicer. Slicer duplicates the file into a desired number of copies, while shuffling the contents, potentially making each copy unique. Instructors & facilitators can highly benefit from it's immense power.
+      Copy & shuffle is a primary feature of slicer. Slicer duplicates the
+      file into a desired number of copies, while shuffling the contents,
+      potentially making each copy unique. Instructors & facilitators can
+      highly benefit from it's immense power.
 
 ## Usage
 
