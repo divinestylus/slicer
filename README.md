@@ -19,7 +19,7 @@
         slicer - a file manipulator
 
       SYNOPSIS
-        slicer - OPTION FILENAME(S)
+        slicer - OPTION SOURCE...
 
 + Options
 
